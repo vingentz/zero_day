@@ -2,7 +2,7 @@
 
 This repository contains the hello User file generated via vagrant.
 
-* [0x0 - Vagrant](./0x0-vagrant)
+* [0x00 - Vagrant](./0x00-vagrant)
 
 
 ## Author :black_nib:
