@@ -2,8 +2,7 @@
 
 This repository contains the hello User file generated via vagrant.
 
-* [0x00. C - Hello, World](./0x00-hello_world)
-* [0x1C. C - Makefiles](./0x1C-makefiles)
+* [0x0 - Vagrant](./0x0-vagrant)
 
 
 ## Author :black_nib:
